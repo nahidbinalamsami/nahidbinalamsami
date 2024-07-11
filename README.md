@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **React Project**
 
-- ⚡ Fun fact **A am quick learner. I love to scroll Facebook reel.**
+- ⚡ Fun fact **A am quick learner. I love to scroll Facebook reel, Instragram reel**
 
 
 <h3 align="left">Connect with me:</h3>
