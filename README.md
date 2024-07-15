@@ -15,6 +15,9 @@
 
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.facebook.com/profile.php?id=100022879115215">
+    <img src="https://img.icons8.com/?size=50&id=118467&format=png" alt="">
+   </a>
 <p align="left">
 </p>
 
